@@ -1,0 +1,62 @@
+[
+  {
+    "label": "ITSN_attention",
+    "n": 9,
+    "pearson_r": -1.0,
+    "pearson_p": 0.0,
+    "spearman_rho": -1.0,
+    "r2": -0.263,
+    "mae": 9966.2,
+    "rmse": 11006.0
+  },
+  {
+    "label": "ITSN_linear",
+    "n": 9,
+    "pearson_r": 0.3682,
+    "pearson_p": 0.3296,
+    "spearman_rho": 0.2667,
+    "r2": -0.1793,
+    "mae": 9281.6,
+    "rmse": 10634.8
+  },
+  {
+    "label": "Vav_attention",
+    "n": 6,
+    "pearson_r": -0.9839,
+    "pearson_p": 0.0004,
+    "spearman_rho": -1.0,
+    "r2": -0.4984,
+    "mae": 2081.7,
+    "rmse": 2379.7
+  },
+  {
+    "label": "Vav_linear",
+    "n": 6,
+    "pearson_r": -0.2452,
+    "pearson_p": 0.6395,
+    "spearman_rho": -0.3143,
+    "r2": -2.5286,
+    "mae": 3022.7,
+    "rmse": 3651.8
+  },
+  {
+    "label": "Combined_attention",
+    "n": 15,
+    "pearson_r": 0.8746,
+    "pearson_p": 0.0,
+    "spearman_rho": 0.5964,
+    "r2": 0.7564,
+    "mae": 7931.4,
+    "rmse": 9889.7
+  },
+  {
+    "label": "Combined_linear",
+    "n": 15,
+    "pearson_r": 0.8295,
+    "pearson_p": 0.0001,
+    "spearman_rho": 0.6929,
+    "r2": 0.5709,
+    "mae": 11824.4,
+    "rmse": 13127.1
+  }
+]

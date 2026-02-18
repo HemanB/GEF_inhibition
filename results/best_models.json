@@ -1,0 +1,92 @@
+{
+  "ITSN_RFD1_0-7": {
+    "model_idx": 0,
+    "ranking_score": 0.88,
+    "dirname": "itsn_rfd1_0_7_cdc42",
+    "prefix": "fold_itsn_rfd1_0_7_cdc42"
+  },
+  "ITSN_RFD1_1-13": {
+    "model_idx": 0,
+    "ranking_score": 0.86,
+    "dirname": "itsn_rfd1_1_13_cdc42",
+    "prefix": "fold_itsn_rfd1_1_13_cdc42"
+  },
+  "ITSN_RFD1_10-4": {
+    "model_idx": 0,
+    "ranking_score": 0.88,
+    "dirname": "itsn_rfd1_10_4_cdc42",
+    "prefix": "fold_itsn_rfd1_10_4_cdc42"
+  },
+  "ITSN_RFD1_13-15": {
+    "model_idx": 0,
+    "ranking_score": 0.87,
+    "dirname": "itsn_rfd1_13_15_cdc42",
+    "prefix": "fold_itsn_rfd1_13_15_cdc42"
+  },
+  "ITSN_RFD1_15-2": {
+    "model_idx": 0,
+    "ranking_score": 0.89,
+    "dirname": "itsn_rfd1_15_2_cdc42",
+    "prefix": "fold_itsn_rfd1_15_2_cdc42"
+  },
+  "ITSN_RFD1_4-7": {
+    "model_idx": 0,
+    "ranking_score": 0.88,
+    "dirname": "itsn_rfd1_4_7_cdc42",
+    "prefix": "fold_itsn_rfd1_4_7_cdc42"
+  },
+  "ITSN_RFD1_9-15": {
+    "model_idx": 0,
+    "ranking_score": 0.88,
+    "dirname": "itsn_rfd1_9_15_cdc42",
+    "prefix": "fold_itsn_rfd1_9_15_cdc42"
+  },
+  "ITSN_RFD1_7-4": {
+    "model_idx": 0,
+    "ranking_score": 0.84,
+    "dirname": "itsn_rfd1_7_4_cdc42",
+    "prefix": "fold_itsn_rfd1_7_4_cdc42"
+  },
+  "ITSN_RFD1_2-12": {
+    "model_idx": 0,
+    "ranking_score": 0.88,
+    "dirname": "itsn_rfd1_2_12_cdc42",
+    "prefix": "fold_itsn_rfd1_2_12_cdc42"
+  },
+  "Vav_denovo_3_9_ranked_15": {
+    "model_idx": 0,
+    "ranking_score": 0.84,
+    "dirname": "vav_denovo_3_9_ranked_15_rac1",
+    "prefix": "fold_vav_denovo_3_9_ranked_15_rac1"
+  },
+  "Vav_denovo_32_6_ranked_10": {
+    "model_idx": 0,
+    "ranking_score": 0.85,
+    "dirname": "vav_denovo_32_6_ranked_10_rac1",
+    "prefix": "fold_vav_denovo_32_6_ranked_10_rac1"
+  },
+  "Vav_denovo_11_4_ranked_0": {
+    "model_idx": 0,
+    "ranking_score": 0.85,
+    "dirname": "vav_denovo_11_4_ranked_0_rac1",
+    "prefix": "fold_vav_denovo_11_4_ranked_0_rac1"
+  },
+  "Vav_denovo_19_14_ranked_1": {
+    "model_idx": 0,
+    "ranking_score": 0.86,
+    "dirname": "vav_denovo_19_14_ranked_1_rac1",
+    "prefix": "fold_vav_denovo_19_14_ranked_1_rac1"
+  },
+  "Vav_denovo_22_16_ranked_10": {
+    "model_idx": 0,
+    "ranking_score": 0.84,
+    "dirname": "vav_denovo_22_16_ranked_10_rac1",
+    "prefix": "fold_vav_denovo_22_16_ranked_10_rac1"
+  },
+  "Vav_denovo_42_7_ranked_11": {
+    "model_idx": 0,
+    "ranking_score": 0.85,
+    "dirname": "vav_denovo_42_7_ranked_11_rac1",
+    "prefix": "fold_vav_denovo_42_7_ranked_11_rac1"
+  }
+}

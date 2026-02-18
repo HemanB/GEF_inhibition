@@ -1,0 +1,16 @@
+network_nodes,network_edges,betweenness_max,betweenness_mean,degree_mean,degree_max,clustering_coeff,community_count,shortest_path_scaffold_switchI,shortest_path_scaffold_switchII,shortest_path_scaffold_hotspot,inhibitor_id
+59,74,0.4193,0.073,2.51,6,0.0,8,,,,ITSN_RFD1_0-7
+60,74,0.4064,0.0669,2.47,6,0.0,8,1.0,,,ITSN_RFD1_1-13
+59,73,0.5544,0.0801,2.47,6,0.0,7,,,,ITSN_RFD1_10-4
+60,77,0.4143,0.0708,2.57,6,0.0,8,,,,ITSN_RFD1_13-15
+63,82,0.3779,0.0638,2.6,6,0.0,8,1.0,,,ITSN_RFD1_15-2
+59,74,0.4193,0.073,2.51,6,0.0,8,,,,ITSN_RFD1_4-7
+66,79,0.3437,0.0555,2.39,6,0.0,9,1.0,,,ITSN_RFD1_9-15
+60,75,0.4205,0.0717,2.5,6,0.0,8,,,,ITSN_RFD1_7-4
+58,70,0.4335,0.0769,2.41,6,0.0,9,,,,ITSN_RFD1_2-12
+55,69,0.4001,0.0773,2.51,7,0.0,7,1.0,9.0,10.0,Vav_denovo_3_9_ranked_15
+55,70,0.4072,0.0756,2.55,7,0.0,8,1.0,9.0,10.0,Vav_denovo_32_6_ranked_10
+55,69,0.407,0.0756,2.51,7,0.0,8,1.0,9.0,10.0,Vav_denovo_11_4_ranked_0
+55,72,0.3458,0.0727,2.62,7,0.0,7,1.0,9.0,8.0,Vav_denovo_19_14_ranked_1
+64,77,0.28,0.0502,2.41,6,0.0,9,1.0,7.0,6.0,Vav_denovo_22_16_ranked_10
+55,70,0.3797,0.0739,2.55,7,0.0,7,1.0,9.0,10.0,Vav_denovo_42_7_ranked_11
