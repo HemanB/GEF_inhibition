@@ -1,0 +1,2 @@
+# PyMOL scripts misdetected as Promela
+*.pml linguist-detectable=false
